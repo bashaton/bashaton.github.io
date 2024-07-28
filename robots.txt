@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bashaton.github.io/sitemap.html.gz
+Sitemap: https://bashaton.github.io/app/sitemap.html.gz
+Sitemap: https://bashaton.github.io/assets/sitemap.html.gz
+Sitemap: https://bashaton.github.io/css/sitemap.html.gz
+Sitemap: https://bashaton.github.io/includes/sitemap.html.gz
+Sitemap: https://bashaton.github.io/item/sitemap.html.gz
+Sitemap: https://bashaton.github.io/src/sitemap.html.gz
